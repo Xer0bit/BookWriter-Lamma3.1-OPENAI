@@ -1,0 +1,4 @@
+flask
+langchain
+openai
+python-docx
