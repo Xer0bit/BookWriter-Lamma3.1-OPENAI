@@ -8,7 +8,6 @@ This application allows you to generate text using either OpenAI's GPT API or th
 - [Using GPT API](#using-gpt-api)
 - [Using LLaMA Local Model](#using-llama-local-model)
 - [Running the Application](#running-the-application)
-- [License](#license)
 
 ## Requirements
 
@@ -71,5 +70,9 @@ To run the application, simply execute the `app.py` file:
 
 ```bash
 python app.py
+```
+
+![App Running Screenshot](screenshots/app_running.png)
+
 
 
