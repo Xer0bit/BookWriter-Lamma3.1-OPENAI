@@ -21,7 +21,7 @@ Make sure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/BookWriter-Lamma3.1-OPENAI.git
+   git clone https://github.com/Xer0bit/BookWriter-Lamma3.1-OPENAI.git
    cd BookWriter-Lamma3.1-OPENAI
 
 
